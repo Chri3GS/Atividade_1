@@ -1,11 +1,8 @@
 
-public class Aluno {
-
-    String nome;
-    String email;
-    int matricula;
-
-
+private class Aluno {
+    private String nome;
+    private String email;
+    private int matricula;
 
 
 }//Final class aluno
