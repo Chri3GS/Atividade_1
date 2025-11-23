@@ -5,6 +5,11 @@ public class Aluno {
     String email;
     int matricula;
 
+    status(){
+        IO.println("Nome: "+this);
+        IO.println("Email: "+this);
+        IO.println("Matricula: "+this);
+    }
 
 
 

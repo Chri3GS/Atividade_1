@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Disciplina {
     String codigo;
     String titulo;
@@ -6,7 +8,7 @@ public class Disciplina {
     boolean isLotada(){
 
     }
-    List<Aluno>getAlunos(){
+    List<Aluno> getAlunos(){
 
     }
     construtor(String codigo, String titulo,int capacidade){
